@@ -10,9 +10,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Uploaded files (if using multer)
-uploads/
-
 # OS-specific files
 .DS_Store
 Thumbs.db
